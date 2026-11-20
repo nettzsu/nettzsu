@@ -6,7 +6,7 @@
   
   𝙵𝚒𝚗𝚍 𝚖𝚎 𝚎𝚕𝚜𝚎𝚠𝚑𝚎𝚛𝚎:
   
-  [![LeetCode](https://img.shields.io/badge/LeetCode-mlxviikuznetsov-orange?logo=leetcode&labelColor=282828)](https://leetcode.com/u/mlxviikuznetsov/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-mlxviikuznetsov-orange?logo=leetcode&labelColor=282828)](https://leetcode.com/u/nettzsu/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-mlxviikuznetsov-blue?logo=kaggle&labelColor=2e3033)](https://www.kaggle.com/mlxviikuznetsov)
   [![Hugging Face](https://img.shields.io/badge/Hugging_Face-mlxviikuznetsov-yellow?logo=huggingface&labelColor=0b0f19)](https://huggingface.co/mlxviikuznetsov)
 </p>
